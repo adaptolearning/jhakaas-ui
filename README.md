@@ -1,11 +1,18 @@
-Welcome to `Jhakaas UI` (our open source Flutter UI library repository)! Our library is designed to make UI development in Flutter easier and more efficient, and we're excited to share it with the community.
+<br/>
+<p align="center">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/princeteck/jhakaas-ui/assets/13074740/3ee23cb9-0abe-4fed-ba29-550204add2d4">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/princeteck/jhakaas-ui/assets/13074740/76ebf266-ca97-4a87-80ba-497698e70467">
+    <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+    </picture>
+</p>
+<br/>
 
-Our open source library provides a collection of ready-to-use components, also known as Flutter widgets, that you can quickly and easily incorporate into your own projects. These components have been carefully crafted with attention to detail and design, and are fully customizable to suit your specific needs.
 
-As an open source project, our custom Flutter UI library is free to use and open for contributions from the community. We welcome developers of all skill levels to contribute to our library, and we're constantly updating it with new and improved components.
+Introducing `Jhakaas UI` (JUi), an open source Flutter UI library! Our goal is to simplify UI development in Flutter by offering a collection of customizable components. With JUi, you can easily incorporate ready-to-use widgets into your projects, saving time and effort. 
 
-Our library offers a variety of widgets, including buttons, input fields, navigation bars, cards, and much more. These widgets have been optimized for performance, ensuring smooth animations and fast rendering times.
+It's free to use and open for community contributions. From buttons to navigation bars, JUi provides optimized widgets for smooth animations and fast rendering (is a goal). 
 
-Whether you're a beginner or an experienced developer, our open source library can help you save time and effort in UI development. By utilizing our pre-built components, you can focus on building the core functionality of your app, without having to worry about creating custom UI elements from scratch.
+Whether you're a beginner or an experienced developer, JUi streamlines UI development, letting you focus on core functionality. 
 
-Thank you for considering our open source Flutter UI library for your next project. We hope our library can help you create beautiful and functional apps with ease, and we look forward to your contributions to our project.
+##### Join us in creating beautiful apps effortlessly with JUi!
